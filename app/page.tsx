@@ -77,7 +77,7 @@ export default function HomePage() {
       <section className="grid md:grid-cols-2 gap-10 items-center mb-20">
         <div className="flex justify-center">
           <img
-            src="/images/CREAR_Logo.png"
+            src="/images/CREAR Lab.png"
             alt="CREAR Lab Values Logo"
             className="w-80 h-auto"
           />
